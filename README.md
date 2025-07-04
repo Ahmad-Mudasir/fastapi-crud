@@ -1,6 +1,6 @@
 # 📚 FastAPI CRUD App - Book Management
 
-This is a simple **CRUD API** built with [FastAPI](https://fastapi.tiangolo.com/) using in-memory storage and `UUID` for each book.
+This is a simple **CRUD API** built with [FastAPI] using in-memory storage and `UUID` for each book.
 
 You can perform:
 
@@ -23,7 +23,7 @@ You can perform:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/fastapi-crud.git
+git clone https://github.com/Ahmad-Mudasir/fastapi-crud.git
 cd fastapi-crud
 
 # Create virtual environment
